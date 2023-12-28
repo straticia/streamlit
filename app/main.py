@@ -78,3 +78,4 @@ def effectuer_recherche():
 # Vérifier si le formulaire a été soumis
 if query:
     effectuer_recherche()
+
